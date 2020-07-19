@@ -101,6 +101,25 @@ a .fab {
   max-width: 33%;
 }
 
+#upper{
+  font-size: 136%;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+#lower{
+  font-size: 90%;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+#middle{
+  font-size: 90%;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .course .descrition {
   -ms-flex: 0 0 66.6%;
   flex: 0 0 66.6%;
